@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Releases Nexus Repository</name>
-	      <url>http://18.232.75.152:8081/repository/posh-technologies-release/</url>
+	      <url>http://http://34.230.50.237:8081/repository/posh-tech-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Posh Technologies Snapshot Nexus Repository</name>
-	      <url>http://18.232.75.152:8081/repository/posh-technologies-snapshot/</url>
+	      <url>http://http://34.230.50.237:8081/repository/posh-tech-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
